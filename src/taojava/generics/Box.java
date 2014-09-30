@@ -24,7 +24,7 @@ public class Box<T>
   public Box(T initialContents)
   {
     this.contents = initialContents;
-  } // Box(String)
+  } // Box(T)
 
   // +---------+-----------------------------------------------------
   // | Methods |
